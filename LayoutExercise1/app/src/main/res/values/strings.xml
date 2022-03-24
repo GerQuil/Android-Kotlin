@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">LayoutExercise1</string>
+    <string name="selected_item">Selected item:</string>
+
+    <string-array name = "gender">
+        <item>Male</item>
+        <item>Female</item>
+        <item>Other</item>
+    </string-array>
+
+    <string-array name = "civil_status">
+        <item>Single</item>
+        <item>Married</item>
+        <item>Divorced</item>
+        <item>Widowed</item>
+    </string-array>
+
+</resources>
